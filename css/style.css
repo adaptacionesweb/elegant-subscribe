@@ -29,7 +29,7 @@ img{max-width:100%;}
 /*end reset*/
 body {
 	font-family: 'Raleway', sans-serif;
-	background: url("../images/1.jpg") no-repeat 0px 0px;
+	background: url("https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg") no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 100vh;
 }
@@ -169,7 +169,7 @@ span.check-w3 {
 }
 @media(max-width: 1024px){
 	body {
-		background: url(../images/1.jpg) no-repeat -170px 0px;
+		background: url(https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg) no-repeat -170px 0px;
 		background-size: cover;
 	}
 }
@@ -185,7 +185,7 @@ span.check-w3 {
 		justify-content: center;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat 0px 0px;
+		background: url(https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.header-w3l h1 {
@@ -198,7 +198,7 @@ span.check-w3 {
 }
 @media(max-width: 736px){
 	body {
-		background: url(../images/1.jpg) no-repeat -90px center;
+		background: url(https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg) no-repeat -90px center;
 		background-size: cover;
 	}
 }
@@ -208,7 +208,7 @@ span.check-w3 {
 		letter-spacing: 1px;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -150px center;
+		background: url(https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg) no-repeat -150px center;
 		background-size: cover;
 	}
 
@@ -222,7 +222,7 @@ span.check-w3 {
 		letter-spacing: 1px;
 	}
 	body {
-		background: url(../images/1.jpg) no-repeat -180px center;
+		background: url(https://rawcdn.githack.com/adaptacionesweb/elegant-subscribe/bd68305491b2534157acada0ddad1093ab4dd55c/images/1.jpg) no-repeat -180px center;
 		background-size: cover;
 	}
 
